@@ -1,0 +1,23 @@
+/* Smooth fade in for new rows coming from SSE */
+.fade-in-row {
+  animation: fadeIn 1.5s ease-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    background-color: #e8f5e9;
+  } /* Light Green highlight */
+  100% {
+    background-color: transparent;
+  }
+}
+
+/* Cursor pointer for clickable rows/buttons */
+.table-hover tbody tr:hover {
+  background-color: #f8f9fa;
+  cursor: default;
+}
+
+.font-monospace {
+  font-family: "Courier New", Courier, monospace;
+}
