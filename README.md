@@ -21,7 +21,7 @@ A reactive Single Page Application (SPA) designed to visualize incoming invoice 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/document-ui.git](https://github.com/your-username/document-ui.git)
+    git clone [https://github.com/Shalabi98/document-ui.git](https://github.com/Shalabi98/document-ui.git)
     cd document-ui
     ```
 
